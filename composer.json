@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twilio/sdk": "^4.5",
+        "sag/sag": "dev-master",
+        "guzzle/guzzle": "^3.9",
+        "philo/laravel-blade": "^3.0"
+    }
+}
